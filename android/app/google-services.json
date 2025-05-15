@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686706458855",
+    "project_id": "rnfirebaselearn",
+    "storage_bucket": "rnfirebaselearn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686706458855:android:2c818bd4498badfce52242",
+        "android_client_info": {
+          "package_name": "com.fundoonotesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7rSHZSCJPiIWWQUXi5EL6kJIVG7xUk8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
