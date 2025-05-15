@@ -1,7 +1,6 @@
 
 
 
-// GoogleKeep/notifeeService.js
 
 import notifee, { TimestampTrigger, TriggerType } from '@notifee/react-native';
 
@@ -9,7 +8,7 @@ class NotifeeService {
   /**
    * scheduleReminder(noteId, title, date)
    * - date: JavaScript Date object (future time)
-   * - यह function Notifee के trigger notification को schedule करता है
+   * - function to schedule the notification
    */
   async scheduleReminder(noteId, title, date) {
     // Permission request (for Android 13+ & iOS)
